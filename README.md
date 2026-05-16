@@ -116,9 +116,3 @@ Help businesses predict future sales trends for planning and inventory managemen
 # Repository Structure
 
 ```text
-ml-portfolio-projects/
-│
-├── HR_Attrition_Prediction_Project/
-├── Credit_Risk_Scoring_Project/
-├── Sales_Forecasting_Project/
-├── Churn_Prediction_Project/
