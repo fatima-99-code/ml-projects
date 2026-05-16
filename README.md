@@ -112,7 +112,3 @@ Help businesses predict future sales trends for planning and inventory managemen
 ---
 
 ---
-
-# Repository Structure
-
-```text
